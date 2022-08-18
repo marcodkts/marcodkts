@@ -1,19 +1,39 @@
 <img align="center" alt="marcodkts-msqlserver"  src="https://komarev.com/ghpvc/?username=marcodkts&style=flat-square">
-<table><tr><td valign="left">
-<div>
-  <a href="https://github.com/marcodkts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcodkts&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodkts&layout=compact&langs_count=7&theme=synthwave&cache_seconds=1800"/>
+## Hey there, I'm Marco Aurélio!  
+  
 
-</div>
-  <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcodkts&theme=synthwave">
-  </div>
-</td><td valign="center" align="right">
+<a href="https://github.com/marcodkts" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/marco-aurélio-lima-junior-37518218a" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/marcodkts" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=22qv2x5zzdfwbevtn4qonjnca&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
 
-</td></tr></table>  
+### Glad to see you here!  
+Computer engineer with a graduation in Embedded Systems, software engineering and internet of things.
+Fan of electronics, making projects since young. Has affinity with micro-controllers and programming, with a multidisciplinary profile always seeks creative ways of solving problems.  
+  
+  
+  
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="center" align="left"  width="auto">
+
+![Metrics](https://metrics.lecoq.io/marcodkts?template=classic&base.indepth=true&base.hireable=true&base.community=0&base.repositories=0&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.ignored=html%2C%20CSS&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=lines%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon&config.octicon=true&config.presets=%40lunar-red)
+  
+
+</td><td valign="center" align="left">
+
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22qv2x5zzdfwbevtn4qonjnca&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+
+</td></tr></table> 
+
   <h2>🏆 GitHub Trophies</h2>
 <div align="center">  
 <img src="https://github-profile-trophy.vercel.app/?username=marcodkts&theme=nord&column=7" >
@@ -52,24 +72,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/marcodkts" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marco-aurélio-lima-junior-37518218a/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/marcodkts" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+</td></tr></table>    
 
 <br/>
 <div align="center">  
