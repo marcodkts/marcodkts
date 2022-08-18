@@ -13,15 +13,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
-
-### Glad to see you here!  
-Computer engineer with a graduation in Embedded Systems, software engineering and internet of things.
-Fan of electronics, making projects since young. Has affinity with micro-controllers and programming, with a multidisciplinary profile always seeks creative ways of solving problems.  
-  
-  
-  
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="center" align="left"  width="auto">
