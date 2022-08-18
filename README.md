@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="center" alt="marcodkts-msqlserver"  src="https://komarev.com/ghpvc/?username=marcodkts&style=flat-square">
+<div align="center">
+  <a href="https://github.com/marcodkts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcodkts&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodkts&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 
-<!--
-**marcodkts/marcodkts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcodkts&theme=dark">
+  </div>
+  <h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=marcodkts&theme=nord&column=7" >
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="marcodkts-python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+</div>
+  <img align="center" src="https://github.com/marcodkts/marcodkts/blob/output/github-contribution-grid-snake.gif">
