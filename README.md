@@ -18,7 +18,7 @@
 ## Github Stats  
 <table><tr><td valign="center" align="left"  width="auto">
 
-![Metrics](https://metrics.lecoq.io/marcodkts?template=classic&base.indepth=true&base.hireable=true&base.repositories=0&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=lines%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon&config.octicon=true&config.presets=%40lunar-red)
+![Metrics](https://metrics.lecoq.io/marcodkts?template=classic&base.indepth=true&base.hireable=true&base.repositories=0&isocalendar=1&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=lines%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon&config.octicon=true&config.presets=%40lunar-red)
   
 
 </td><td valign="center" align="left">
