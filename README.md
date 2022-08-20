@@ -16,20 +16,29 @@
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="center" align="left"  width="auto">
+<table><tr><td valign="center" align="left">
 
-![Metrics](https://metrics.lecoq.io/marcodkts?template=classic&base.indepth=true&base.hireable=true&base.repositories=0&isocalendar=1&languages=1&traffic=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=lines%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&traffic=false&config.timezone=Europe%2FLisbon&config.octicon=true&config.presets=%40lunar-red)
+<div align="left">
+  <a href="https://github.com/marcodkts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcodkts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    </div><div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodkts&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
+
+</div><div align="left">
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcodkts&theme=tokyonight">
+  </div>
   
 
 </td><td valign="center" align="left">
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22qv2x5zzdfwbevtn4qonjnca&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" />
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22qv2x5zzdfwbevtn4qonjnca&cover_image=true&bar_color=53b14f&bar_color_cover=true" />
 
 </td></tr></table> 
 
   <h2>🏆 GitHub Trophies</h2>
 <div align="center">  
-<img src="https://github-profile-trophy.vercel.app/?username=marcodkts&theme=nord&column=7" >
+<img src="https://github-profile-trophy.vercel.app/?username=marcodkts&theme=tokyonight&column=7" >
 </div>
 
 ## My Skill Set  
