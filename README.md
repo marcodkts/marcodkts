@@ -78,4 +78,4 @@
 
 <br/>
   
-![](https://raw.githubusercontent.com/marcodkts/marcodkts/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/marcodkts/marcodkts/output/github-snake-dark.svg?palette=github-dark)
