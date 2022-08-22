@@ -77,4 +77,4 @@
 </td></tr></table>    
 
 <br/>
-![](https://github.com/marcodkts/marcodkts/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/marcodkts/marcodkts/output/github-contribution-grid-snake.svg)
