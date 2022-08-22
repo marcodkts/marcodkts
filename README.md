@@ -78,5 +78,5 @@
 
 <br/>
 <div align="center">  
-  <img align="center" src="https://github.com/marcodkts/marcodkts/blob/output/github-contribution-grid-snake.gif">
+  ![](https://github.com/marcodkts/marcodkts/raw/output/github-contribution-grid-snake.svg)
 </div>
