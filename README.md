@@ -16,7 +16,8 @@
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="center" align="left">
+
+<div align="center" width="100%"><table><tr><td valign="center" align="left">
 
 <div align="left">
   <a href="https://github.com/marcodkts">
@@ -30,11 +31,11 @@
   </div>
   
 
-</td><td valign="center" align="left">
+</td><td valign="center" align="right">
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=22qv2x5zzdfwbevtn4qonjnca&cover_image=true&bar_color=53b14f&bar_color_cover=true" />
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22qv2x5zzdfwbevtn4qonjnca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=22qv2x5zzdfwbevtn4qonjnca&redirect=true)
 
-</td></tr></table> 
+</td></tr></table></div> 
 
   <h2>🏆 GitHub Trophies</h2>
 <div align="center">  
