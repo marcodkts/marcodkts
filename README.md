@@ -2,67 +2,93 @@
 
 # Marco Aurélio Lima Junior
 
-**Backend Developer | Python/Django | SaaS | DevOps | Automation**
+**Software Engineer · Backend & Data Systems · Applied AI**
 
-I'm a software developer focused on building practical, production-ready systems: APIs, SaaS products, automations, data pipelines and infrastructure.
+I build production systems from scratch and evolve them into scalable platforms.
 
-Most of my work is around **Python, Django, DRF, Docker, PostgreSQL, Redis, Kafka, React and cloud/server deployments**. I like designing systems that are simple to operate, easy to evolve and reliable enough for real business usage.
+My work is focused on **backend engineering, data pipelines, event-driven systems, automation and SaaS architecture**. I have experience working in high-ambiguity environments, often close to founders, CTOs and business leadership, turning early product ideas into real systems.
 
----
-
-## What I'm working on
-
-- Building **PMS / SaaS products** for hospitality operations
-- Designing **multi-tenant Django architectures** with roles, permissions and billing boundaries
-- Working with **event-driven systems**, outbox patterns, Kafka, Celery and background processing
-- Creating tools for **dynamic pricing**, reservations, calendar sync and operational automation
-- Deploying and maintaining services with **Docker, Traefik, Cloudflare, PostgreSQL, Redis and GitHub Container Registry**
+I have worked across **IoT platforms, fintech automation, music analytics, media platforms and independent SaaS products**, with a strong focus on pragmatic architecture, performance, reliability and business impact.
 
 ---
 
-## Main stack
+## Core focus
 
-**Backend**  
-Python · Django · Django REST Framework · FastAPI · Celery · SQLAlchemy
-
-**Frontend / Mobile**  
-React · TypeScript · React Native · Expo · Astro
-
-**Data & Messaging**  
-PostgreSQL · Redis · Kafka · RabbitMQ · OpenSearch · Pandas
-
-**Infrastructure**  
-Docker · Docker Compose · Kubernetes · Traefik · NGINX · Cloudflare · GitHub Actions · GHCR
-
-**Other areas**  
-SaaS architecture · Multi-tenancy · API design · Automation · Scraping · ETL · Monitoring
+- Backend platforms with **Python, Django, DRF, Celery and Redis**
+- Data ingestion and processing pipelines with **RabbitMQ, Kafka, OpenSearch and Pandas**
+- SaaS architecture, multi-tenancy, permissions, billing boundaries and operational workflows
+- Applied AI and automation using OCR, document understanding and data-driven tooling
+- Production infrastructure with Docker, Kubernetes, VPS/cloud deployments and CI/CD
 
 ---
 
-## Current interests
+## Current product work
 
-- Scalable SaaS architecture
-- Event-driven backend design
-- Hospitality tech / PMS platforms
-- Dynamic pricing engines
-- AI-assisted development workflows
-- Infrastructure automation
+### Hospitality PMS / SaaS
+Building a **Property Management System** from scratch, owning product, architecture and backend design.
 
----
+Key areas:
 
-## Selected work themes
-
-### Hospitality SaaS / PMS
-Designing a property management system with reservations, calendar availability, guest operations, roles, permissions, add-ons and billing projections.
+- Multi-tenant architecture
+- Roles, permissions and property-level access
+- Reservation lifecycle and calendar availability
+- Event-driven reservation workflows
+- Subscription, billing and add-on boundaries
+- External calendar sync and operational automation
 
 ### Dynamic pricing engine
-Building a pricing engine for hospitality reservations using rule-based calculations, occupancy, seasonality, holidays, lead time, weather context and room/property configuration.
+Designing a pricing engine for hospitality operations using rule-based calculations and external context.
 
-### Event-driven backend systems
-Working with reliable event publishing, transactional outbox, idempotent consumers, Kafka topics and background workers for reservation lifecycle and integrations.
+Key areas:
 
-### Automation and internal tools
-Creating scrapers, dashboards, ETL pipelines and operational tools to reduce manual work and improve business decisions.
+- Daily pricing rules
+- Occupancy and seasonality
+- Holidays and special periods
+- Lead-time and last-minute adjustments
+- Room/property configuration
+- Explainable pricing breakdowns
+
+---
+
+## Previous work
+
+- **Trinovati Tecnologia** — IoT data platform, real-time ingestion, async processing, RabbitMQ, Redis, OpenSearch and predictive analytics
+- **BT Créditos** — fintech automation platform, Django MVP, OCR with AWS Textract, AI-assisted document understanding, Celery, Airflow, AWS and Azure
+- **Edesoft Consulting** — client projects with AWS Lambda, DynamoDB, OCR, Angular, React, Node.js and React Native
+- **Atabaque Music Analytics** — Django backend, scraping pipelines, Celery, Redis and Docker deployment
+- **KondZilla** — music data platform built from scratch, ingestion from YouTube, Spotify and Deezer, dashboards with Grafana and Metabase
+- **A55** — financial APIs and integrations with Django, AWS ECS, Docker and Secrets Manager
+
+---
+
+## Stack
+
+**Backend**  
+Python · Django · Django REST Framework · FastAPI · Node.js · Celery · Airflow
+
+**Data & Messaging**  
+PostgreSQL · Redis · RabbitMQ · Kafka · OpenSearch · Pandas · DynamoDB
+
+**Frontend / Mobile**  
+React · TypeScript · Vue · Quasar · React Native · Expo · Flutter · Astro
+
+**Infrastructure**  
+Docker · Docker Compose · Kubernetes · Traefik · NGINX · AWS · Azure · Cloudflare · GitHub Actions · GHCR · Terraform
+
+**AI / Automation**  
+OCR · AWS Textract · LlamaIndex · Scraping · ETL · Document processing · Predictive analytics
+
+---
+
+## Engineering interests
+
+- 0→1 product engineering
+- Event-driven architecture
+- Distributed systems
+- Real-time data processing
+- SaaS monetization and billing architecture
+- Applied AI for business automation
+- Developer tooling and AI-assisted workflows
 
 ---
 
