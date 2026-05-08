@@ -1,82 +1,86 @@
-<img align="center" alt="marcodkts-msqlserver"  src="https://komarev.com/ghpvc/?username=marcodkts&style=flat-square">
+<img align="right" src="https://komarev.com/ghpvc/?username=marcodkts&style=flat-square" alt="Profile views" />
 
-## Hey there, I'm Marco Aurélio!  
-  
+# Marco Aurélio Lima Junior
 
-<a href="https://github.com/marcodkts" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/marco-aurélio-lima-junior-37518218a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/marcodkts" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+**Backend Developer | Python/Django | SaaS | DevOps | Automation**
 
-<br/>  
+I'm a software developer focused on building practical, production-ready systems: APIs, SaaS products, automations, data pipelines and infrastructure.
 
-## Github Stats  
+Most of my work is around **Python, Django, DRF, Docker, PostgreSQL, Redis, Kafka, React and cloud/server deployments**. I like designing systems that are simple to operate, easy to evolve and reliable enough for real business usage.
 
-<div align="center" width="100%"><table><tr><td valign="center" align="left">
+---
 
-<div align="left">
-  <a href="https://github.com/marcodkts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcodkts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    </div><div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodkts&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
+## What I'm working on
 
-</div><div align="left">
-  <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcodkts&theme=tokyonight">
-  </div>
-  
+- Building **PMS / SaaS products** for hospitality operations
+- Designing **multi-tenant Django architectures** with roles, permissions and billing boundaries
+- Working with **event-driven systems**, outbox patterns, Kafka, Celery and background processing
+- Creating tools for **dynamic pricing**, reservations, calendar sync and operational automation
+- Deploying and maintaining services with **Docker, Traefik, Cloudflare, PostgreSQL, Redis and GitHub Container Registry**
 
-</td><td valign="center" align="right">
+---
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22qv2x5zzdfwbevtn4qonjnca&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=22qv2x5zzdfwbevtn4qonjnca&redirect=true)
+## Main stack
 
-</td></tr></table></div> 
+**Backend**  
+Python · Django · Django REST Framework · FastAPI · Celery · SQLAlchemy
 
-  <h2>🏆 GitHub Trophies</h2>
-<div align="center">  
-<img src="https://github-profile-trophy.vercel.app/?username=marcodkts&theme=tokyonight&column=7" >
+**Frontend / Mobile**  
+React · TypeScript · React Native · Expo · Astro
+
+**Data & Messaging**  
+PostgreSQL · Redis · Kafka · RabbitMQ · OpenSearch · Pandas
+
+**Infrastructure**  
+Docker · Docker Compose · Kubernetes · Traefik · NGINX · Cloudflare · GitHub Actions · GHCR
+
+**Other areas**  
+SaaS architecture · Multi-tenancy · API design · Automation · Scraping · ETL · Monitoring
+
+---
+
+## Current interests
+
+- Scalable SaaS architecture
+- Event-driven backend design
+- Hospitality tech / PMS platforms
+- Dynamic pricing engines
+- AI-assisted development workflows
+- Infrastructure automation
+
+---
+
+## Selected work themes
+
+### Hospitality SaaS / PMS
+Designing a property management system with reservations, calendar availability, guest operations, roles, permissions, add-ons and billing projections.
+
+### Dynamic pricing engine
+Building a pricing engine for hospitality reservations using rule-based calculations, occupancy, seasonality, holidays, lead time, weather context and room/property configuration.
+
+### Event-driven backend systems
+Working with reliable event publishing, transactional outbox, idempotent consumers, Kafka topics and background workers for reservation lifecycle and integrations.
+
+### Automation and internal tools
+Creating scrapers, dashboards, ETL pipelines and operational tools to reduce manual work and improve business decisions.
+
+---
+
+## GitHub stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodkts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodkts&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
 </div>
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+---
 
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+## Links
 
-</td><td valign="top" width="33%">
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcodkts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-aurélio-lima-junior-37518218a)
+[![Resume](https://img.shields.io/badge/Resume-dev.chefmako.com.br-orange?style=for-the-badge)](https://dev.chefmako.com.br/en/resume)
 
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://angularjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div>
-
-</td></tr></table>    
-
-<br/>
-  
 ![](https://raw.githubusercontent.com/marcodkts/marcodkts/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
