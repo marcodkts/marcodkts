@@ -168,27 +168,4 @@ Financial APIs · Django · AWS ECS · Docker · Secrets Manager
 
 </div>
 
----
-
-## GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodkts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodkts&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcodkts&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-
-</div>
-
----
-
-## Contribution graph
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/marcodkts/marcodkts/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%" />
