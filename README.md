@@ -11,6 +11,7 @@
 [![Profile views](https://komarev.com/ghpvc/?username=marcodkts&style=for-the-badge&color=7C3AED)](https://github.com/marcodkts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Aurélio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-aurélio-lima-junior-37518218a)
 [![Resume](https://img.shields.io/badge/Resume-dev.chefmako.com.br-FF6B00?style=for-the-badge&logo=readme&logoColor=white)](https://dev.chefmako.com.br/en/resume)
+[![GitCity](https://img.shields.io/badge/GitCity-Explore%20my%20dev%20city-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://www.thegitcity.com/dev/marcodkts)
 [![GitHub](https://img.shields.io/badge/GitHub-marcodkts-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcodkts)
 
 </div>
